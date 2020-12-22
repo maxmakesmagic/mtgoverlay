@@ -1,0 +1,4 @@
+pillow
+requests_ratelimit_adapter
+requests_cache
+requests

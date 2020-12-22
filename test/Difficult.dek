@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="25645" Quantity="1" Sideboard="false" Name="Hypergenesis" />
+  <Cards CatID="48526" Quantity="1" Sideboard="false" Name="Breaking/Entering" />
+  <Cards CatID="31763" Quantity="1" Sideboard="false" Name="Progenitus" />
+  <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="58813" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="63169" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="57580" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="67801" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="59323" Quantity="1" Sideboard="false" Name="Wastes" />
+  <Cards CatID="57306" Quantity="1" Sideboard="false" Name="Apostle's Blessing" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="29703" Quantity="1" Sideboard="false" Name="Advice from the Fae" />
+  <Cards CatID="61555" Quantity="1" Sideboard="false" Name="Spatial Contortion" />
+  <Cards CatID="55781" Quantity="1" Sideboard="false" Name="Briber's Purse" />
+  <Cards CatID="29557" Quantity="1" Sideboard="false" Name="Kulrath Knight" />
+  <Cards CatID="29363" Quantity="1" Sideboard="false" Name="Godhead of Awe" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="29892" Quantity="1" Sideboard="false" Name="Morselhoarder" />
+  <Cards CatID="30092" Quantity="1" Sideboard="false" Name="Primalcrux" />
+  <Cards CatID="30040" Quantity="1" Sideboard="false" Name="Balefire Liege" />
+  <Cards CatID="31156" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="67802" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="35348" Quantity="1" Sideboard="false" Name="Sliver Overlord" />
+  <Cards CatID="30048" Quantity="1" Sideboard="true" Name="Quillspike" />
+  <Cards CatID="30016" Quantity="1" Sideboard="true" Name="Overbeing of Myth" />
+  <Cards CatID="30040" Quantity="3" Sideboard="true" Name="Balefire Liege" />
+</Deck>

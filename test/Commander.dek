@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="69555" Quantity="1" Sideboard="false" Name="Arclight Phoenix" />
+  <Cards CatID="54358" Quantity="1" Sideboard="false" Name="Arrow Storm" />
+  <Cards CatID="62653" Quantity="1" Sideboard="false" Name="Baral, Chief of Compliance" />
+  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="21135" Quantity="1" Sideboard="false" Name="Boseiju, Who Shelters All" />
+  <Cards CatID="53153" Quantity="1" Sideboard="false" Name="Brain Freeze" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
+  <Cards CatID="65288" Quantity="1" Sideboard="false" Name="Captain Lannery Storm" />
+  <Cards CatID="58813" Quantity="6" Sideboard="false" Name="Island" />
+  <Cards CatID="59093" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="69561" Quantity="1" Sideboard="false" Name="Command the Storm" />
+  <Cards CatID="61412" Quantity="1" Sideboard="false" Name="Conduit of Storms" />
+  <Cards CatID="52827" Quantity="1" Sideboard="false" Name="Counterspell" />
+  <Cards CatID="43807" Quantity="1" Sideboard="false" Name="Desolate Lighthouse" />
+  <Cards CatID="63900" Quantity="1" Sideboard="false" Name="Sweltering Suns" />
+  <Cards CatID="46799" Quantity="1" Sideboard="false" Name="Epic Experiment" />
+  <Cards CatID="66653" Quantity="1" Sideboard="false" Name="Etali, Primal Storm" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="67579" Quantity="1" Sideboard="false" Name="The Mirari Conjecture" />
+  <Cards CatID="65538" Quantity="1" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="46771" Quantity="1" Sideboard="false" Name="Firemind's Foresight" />
+  <Cards CatID="9321" Quantity="1" Sideboard="false" Name="Firestorm" />
+  <Cards CatID="69985" Quantity="1" Sideboard="false" Name="Flusterstorm" />
+  <Cards CatID="69721" Quantity="1" Sideboard="false" Name="Goblin Electromancer" />
+  <Cards CatID="25797" Quantity="1" Sideboard="false" Name="Grapeshot" />
+  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="48884" Quantity="1" Sideboard="false" Name="Empty the Warrens" />
+  <Cards CatID="23679" Quantity="1" Sideboard="false" Name="Izzet Signet" />
+  <Cards CatID="67729" Quantity="1" Sideboard="false" Name="Jaya Ballard" />
+  <Cards CatID="52102" Quantity="1" Sideboard="false" Name="Keranos, God of Storms" />
+  <Cards CatID="9207" Quantity="1" Sideboard="false" Name="Lava Storm" />
+  <Cards CatID="53157" Quantity="1" Sideboard="false" Name="Mana Drain" />
+  <Cards CatID="24773" Quantity="1" Sideboard="false" Name="Lightning Storm" />
+  <Cards CatID="46255" Quantity="1" Sideboard="false" Name="Maze of Ith" />
+  <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
+  <Cards CatID="52753" Quantity="1" Sideboard="false" Name="Mind's Desire" />
+  <Cards CatID="59205" Quantity="1" Sideboard="false" Name="Mizzix's Mastery" />
+  <Cards CatID="48986" Quantity="1" Sideboard="false" Name="Desperate Ritual" />
+  <Cards CatID="7163" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="37318" Quantity="1" Sideboard="false" Name="Mystifying Maze" />
+  <Cards CatID="42712" Quantity="1" Sideboard="false" Name="Past in Flames" />
+  <Cards CatID="32923" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="48370" Quantity="1" Sideboard="false" Name="Possibility Storm" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" />
+  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="37468" Quantity="1" Sideboard="false" Name="Pyretic Ritual" />
+  <Cards CatID="35822" Quantity="1" Sideboard="false" Name="Comet Storm" />
+  <Cards CatID="59163" Quantity="1" Sideboard="false" Name="Rite of the Raging Storm" />
+  <Cards CatID="19991" Quantity="1" Sideboard="false" Name="Seething Song" />
+  <Cards CatID="27162" Quantity="1" Sideboard="false" Name="Shatterstorm" />
+  <Cards CatID="57674" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="65172" Quantity="1" Sideboard="false" Name="Siren Stormtamer" />
+  <Cards CatID="39523" Quantity="1" Sideboard="false" Name="Slagstorm" />
+  <Cards CatID="61851" Quantity="1" Sideboard="false" Name="Spirebluff Canal" />
+  <Cards CatID="68419" Quantity="1" Sideboard="false" Name="Apex of Power" />
+  <Cards CatID="62131" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="64584" Quantity="1" Sideboard="false" Name="Swarm Intelligence" />
+  <Cards CatID="54316" Quantity="1" Sideboard="false" Name="Dig Through Time" />
+  <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
+  <Cards CatID="52286" Quantity="1" Sideboard="false" Name="Stormchaser Chimera" />
+  <Cards CatID="59453" Quantity="1" Sideboard="false" Name="Stormchaser Mage" />
+  <Cards CatID="55155" Quantity="1" Sideboard="false" Name="Stormsurge Kraken" />
+  <Cards CatID="45382" Quantity="1" Sideboard="false" Name="Stormtide Leviathan" />
+  <Cards CatID="43969" Quantity="1" Sideboard="false" Name="Malignus" />
+  <Cards CatID="52853" Quantity="1" Sideboard="false" Name="Strip Mine" />
+  <Cards CatID="51781" Quantity="1" Sideboard="false" Name="Sudden Storm" />
+  <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="53229" Quantity="1" Sideboard="false" Name="Temporal Fissure" />
+  <Cards CatID="20652" Quantity="1" Sideboard="false" Name="Mana Geyser" />
+  <Cards CatID="69787" Quantity="1" Sideboard="false" Name="Thousand-Year Storm" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="25365" Quantity="1" Sideboard="false" Name="Volcanic Awakening" />
+  <Cards CatID="53099" Quantity="1" Sideboard="false" Name="Volcanic Island" />
+  <Cards CatID="59259" Quantity="1" Sideboard="false" Name="Wandering Fumarole" />
+  <Cards CatID="41511" Quantity="1" Sideboard="false" Name="Warstorm Surge" />
+  <Cards CatID="58792" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="36194" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="59135" Quantity="1" Sideboard="true" Name="Mizzix of the Izmagnus" />
+</Deck>

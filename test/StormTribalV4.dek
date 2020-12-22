@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="65288" Quantity="3" Sideboard="false" Name="Captain Lannery Storm" />
+  <Cards CatID="58813" Quantity="7" Sideboard="false" Name="Island" />
+  <Cards CatID="48884" Quantity="1" Sideboard="false" Name="Empty the Warrens" />
+  <Cards CatID="57328" Quantity="1" Sideboard="false" Name="Gut Shot" />
+  <Cards CatID="67585" Quantity="2" Sideboard="false" Name="Opt" />
+  <Cards CatID="25797" Quantity="1" Sideboard="false" Name="Grapeshot" />
+  <Cards CatID="36280" Quantity="3" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="61573" Quantity="1" Sideboard="false" Name="Chandra, Torch of Defiance" />
+  <Cards CatID="29653" Quantity="4" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="42712" Quantity="2" Sideboard="false" Name="Past in Flames" />
+  <Cards CatID="48370" Quantity="2" Sideboard="false" Name="Possibility Storm" />
+  <Cards CatID="39523" Quantity="4" Sideboard="false" Name="Slagstorm" />
+  <Cards CatID="67388" Quantity="4" Sideboard="false" Name="Cascade Bluffs" />
+  <Cards CatID="48986" Quantity="4" Sideboard="false" Name="Desperate Ritual" />
+  <Cards CatID="69787" Quantity="3" Sideboard="false" Name="Thousand-Year Storm" />
+  <Cards CatID="25365" Quantity="1" Sideboard="false" Name="Volcanic Awakening" />
+  <Cards CatID="32859" Quantity="2" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="65510" Quantity="2" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="58792" Quantity="9" Sideboard="false" Name="Mountain" />
+  <Cards CatID="46805" Quantity="4" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="48792" Quantity="2" Sideboard="true" Name="Relic of Progenitus" />
+  <Cards CatID="62627" Quantity="1" Sideboard="true" Name="Negate" />
+  <Cards CatID="32859" Quantity="1" Sideboard="true" Name="Lightning Bolt" />
+  <Cards CatID="66541" Quantity="2" Sideboard="true" Name="Negate" />
+  <Cards CatID="27162" Quantity="2" Sideboard="true" Name="Shatterstorm" />
+  <Cards CatID="64678" Quantity="1" Sideboard="true" Name="Hour of Devastation" />
+  <Cards CatID="39253" Quantity="1" Sideboard="true" Name="Lightning Bolt" />
+  <Cards CatID="63900" Quantity="2" Sideboard="true" Name="Sweltering Suns" />
+  <Cards CatID="30895" Quantity="2" Sideboard="true" Name="Relic of Progenitus" />
+  <Cards CatID="63349" Quantity="1" Sideboard="true" Name="Grafdigger's Cage" />
+</Deck>
