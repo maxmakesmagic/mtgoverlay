@@ -19,13 +19,3 @@ def render_frame(deck: mtgoverlay.Deck, width: int, height: int) -> Image:
 def render_deck(deck: mtgoverlay.Deck, width: int, height: int) -> Image:
     frame = mtgoverlay.CardRenderer(width, height)
     return frame.render_deck(deck)
-
-
-def render_decklist(deck: mtgoverlay.Deck, width: int, height: int) -> Image:
-    frame = mtgoverlay.DecklistRenderer(width, height)
-    return frame.render_deck(deck)
-
-
-def render_cmdr_decklist(deck: mtgoverlay.Deck, width: int, height: int) -> Image:
-    frame = mtgoverlay.CommanderDecklistRenderer(width, height)
-    return frame.render_deck(deck)

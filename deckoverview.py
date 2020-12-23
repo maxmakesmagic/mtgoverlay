@@ -5,9 +5,31 @@
 from __future__ import (absolute_import, division, print_function, unicode_literals)
 import logging
 import sys
+import math
+
 import mtgoverlay
+import typing
 
 log = logging.getLogger(__name__)
+
+
+def layout1() -> typing.List[mtgoverlay.PositionDimension]:
+    # Generate the standard 60 card + 15 card layout
+    card_width = 275
+    base_x = 50
+    base_y = 226
+    positions = []
+
+    for ii in range(75):
+        if 0 <= ii < 60:
+            draw_x = base_x + ((card_width + 15) * math.floor(ii / 12))
+            draw_y = base_y + (42 * (ii % 12))
+        else:
+            draw_x = 1595
+            draw_y = base_y + (42 * (ii - 60)) - 126
+
+        positions.append(mtgoverlay.PositionDimension(draw_x, draw_y, card_width))
+    return positions
 
 
 def deckoverview(deckfile: str,
@@ -21,7 +43,9 @@ def deckoverview(deckfile: str,
     log.info("Loaded deck %s", deck)
 
     # Save the deck list
-    decklist = mtgoverlay.render_decklist(deck, width, height)
+    layout = layout1()
+    renderer = mtgoverlay.GenericRenderer(width, height, layout)
+    decklist = renderer.render_deck(deck)
     decklist.save(decklist_image)
     log.info("Saved decklist image as %s", decklist_image)
 
